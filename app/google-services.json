@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "147653991252",
+    "firebase_url": "https://eatit-588b7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "eatit-588b7",
+    "storage_bucket": "eatit-588b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147653991252:android:34527c6a672310397906c1",
+        "android_client_info": {
+          "package_name": "fr.delodev.eatit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147653991252-rf6c4iu7rvcnb39biaj88or8785g45tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYSB0gI5BDEkij7ongmrvCvgFaPSzLO2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147653991252-rf6c4iu7rvcnb39biaj88or8785g45tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

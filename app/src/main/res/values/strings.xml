@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EatIt</string>
+    <string name="txtSlogan">Bienvenue à toi</string>
 </resources>
